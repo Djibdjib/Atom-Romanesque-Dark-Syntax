@@ -1,0 +1,16 @@
+{
+  "name": "romanesque-syntax",
+  "theme": "syntax",
+  "version": "0.0.0",
+  "description": "Dark & Romanesque theme Syntax",
+  "keywords": [
+    "syntax",
+    "theme",
+    "dark"
+  ],
+  "repository": "https://github.com/atom/romanesque-syntax",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
+}
